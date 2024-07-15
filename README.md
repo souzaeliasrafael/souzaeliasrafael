@@ -1,10 +1,7 @@
 # Rafael Elias
 
-* Estudante de **Ciência de Dados** na UNIVESP e **Inteligência Artificial** na UNG; e
+* **Centista de Dados** focado em **IA**; e
 * Focando em análise esportiva.
-
-
-Site pessoal: rescience.com.br
 
 Ferramentas e habilidades que domino:
 
