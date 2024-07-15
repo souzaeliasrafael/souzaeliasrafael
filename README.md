@@ -4,7 +4,7 @@
 * Focando em análise esportiva.
 
 
-Site pessoal: [rescience.com.br](rescience.com.br)
+Site pessoal: rescience.com.br
 
 Ferramentas e habilidades que domino:
 
