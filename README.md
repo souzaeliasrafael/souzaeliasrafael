@@ -1,7 +1,8 @@
 # Rafael Elias
 
-* **Centista de Dados** focado em **IA**; e
-* Focando em análise esportiva.
+* Analista de dados Jr. no Itaú Unibanco;
+* Formado em Inteligênica artificial; e
+* Cientista de dados em formação.
 
 Ferramentas:
 
